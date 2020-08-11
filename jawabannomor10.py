@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 import requests
-import re
 
 def main():
     main_url = "http://shopee.co.id"
